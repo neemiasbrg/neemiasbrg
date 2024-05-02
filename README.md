@@ -12,9 +12,7 @@ Trabalho com as Tecnonologias
 <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="center" alt="Spark" src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark AR&logoColor=white" />
 <img align="center" alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" //>
-</div>
-
-
+</div><br/>
 
 🚀 Apaixonado por dados e entusiasta de Machine Learning com uma sede insaciável por conhecimento! 👨‍💻
 
