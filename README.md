@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá! Sou Neemias Braga 🥋🎮👨‍👩‍👧
 
-<!--
-**neemiasbrg/neemiasbrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🚀 Apaixonado por dados e entusiasta de Machine Learning com uma sede insaciável por conhecimento! 👨‍💻
+
+🔍 Sou um engenheiro apaixonado por desafios, sempre buscando aprimorar minhas habilidades em ciência de dados e análise estatística. 💡
+
+📚 Com experiência em projetos acadêmicos de Machine Learning e uma sede constante por aprendizado, mergulho em cursos online e leio incessantemente para estar na vanguarda das mais recentes tecnologias e práticas. 📈
+
+🔧 Estou determinado a moldar o mundo dos dados como Engenheiro de Dados, aplicando meu conhecimento e paixão para resolver problemas complexos e extrair insights valiosos. 💻
+
+🌟 Vamos unir forças e criar soluções inovadoras juntos! Estou sempre aberto a oportunidades emocionantes no campo da Engenharia de Dados. Vamos conversar! 🚀
+
